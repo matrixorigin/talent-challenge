@@ -1,0 +1,6 @@
+[api]
+addr = "node3:8080"
+
+[store]
+memory = true
+dataPath = "/tmp"
