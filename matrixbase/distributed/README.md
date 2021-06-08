@@ -5,10 +5,6 @@
 
 答题者可以使用`make docker`来编译打包镜像，使用`docker-compose up`来启动3副本测试。
 
-
-
-**WARNING: DO NOT DIRECTLY FORK THIS REPO. DO NOT PUSH PROJECT SOLUTIONS PUBLICLY.**
-
 ### 1. 要求
 * 对外客户端接口使用HTTP接口，实现`GET`, `SET`, `DELETE`语义
 * 强一致协议使用raft，借助etcd的raft来构建
@@ -26,3 +22,8 @@
 * 停止写入客户端
 * 检查数据是否正确
 
+### 3. 如何提交
+
+调试完毕后，发送代码到邮件 zx AT matrixorigin DOT cn 
+
+**WARNING: DO NOT DIRECTLY FORK THIS REPO. DO NOT PUSH PROJECT SOLUTIONS PUBLICLY.**
