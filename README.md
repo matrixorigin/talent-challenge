@@ -6,11 +6,11 @@ This repository contains coding challenges used for candidates who are willing t
 
 ### Table of Contents
 
-- [General programming tests for fresh candidates](https://github.com/matrixorigin/talent-challenge/tree/master/matrixbase/elementary) 
+- [Programming tests for elementary candidates](https://github.com/matrixorigin/talent-challenge/tree/master/matrixbase/elementary) 
 
-- [Fundamental programming tests for medium candidates as well as guys who are interested in AI and other algorithms](https://github.com/matrixorigin/talent-challenge/tree/master/matrixsense)
+- [Programming tests for medium candidates](https://github.com/matrixorigin/talent-challenge/tree/master/matrixbase/medium)
 
-- [General programming tests for experienced candidates](https://github.com/matrixorigin/talent-challenge/tree/master/matrixbase/advanced)
+- [Programming tests for advanced candidates](https://github.com/matrixorigin/talent-challenge/tree/master/matrixbase/advanced)
 
 - [Fundamental programming tests for guys who are interested in distributed systems](https://github.com/matrixorigin/talent-challenge/tree/master/matrixbase/distributed)
 
