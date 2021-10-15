@@ -1,0 +1,7 @@
+.idea/
+*.swp
+bin/
+*.output
+**/.DS_Store
+.vscode
+tags
