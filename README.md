@@ -20,5 +20,7 @@ This repository contains coding challenges used for candidates who are willing t
 
 - [Fundamental programming tests for general backend candidates](https://github.com/matrixorigin/talent-challenge/tree/master/matrixone/backend)
 
+- [Fundamental programming tests for sql execution candidates](https://github.com/matrixorigin/talent-challenge/tree/master/matrixone/execution)
+
   
 
