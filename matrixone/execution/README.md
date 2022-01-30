@@ -21,6 +21,6 @@ create table R(a int, b int, c float);
 
 The results need to be exported to csv as well, ensuring a performance improvement of several times to above an order of magnitude, and indicating why the original execution process was slow and how it was accelerated. 
 
-Please submit your solution to  Yingfeng DOT Zhang AT matrixorigin DOT cn via email
+Please submit your solution to  Yingfeng DOT Zhang AT gmail DOT com via email
 
 **WARNING: DO NOT DIRECTLY FORK THIS REPO. DO NOT PUSH PROJECT SOLUTIONS PUBLICLY.**
